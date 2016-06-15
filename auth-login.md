@@ -2,6 +2,7 @@
 
 #### Description
 This endpoint processes a login request for an active user for a specified region.
+
 #### URL
 
 `/auth/login/{country}/`
