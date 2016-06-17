@@ -48,6 +48,10 @@ Status Code: `200`
 }
 ```
 
+Note from @tham-fookleong regarding `aboId`:
+> The `aboId` is unique for market and is not 100% unique in the region therefore you will need to include the country code.
+
+
 **Failure Response:**
 
 Status Code: `400`
