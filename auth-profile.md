@@ -1,4 +1,4 @@
-## Refresh Endpoint
+## Fetch Profile Info Endpoint
 
 #### Description
 This endpoint retrieves profile data for the currently authenticated user.
