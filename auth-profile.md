@@ -1,7 +1,7 @@
 ## Refresh Endpoint
 
 #### Description
-This endpoint retrieves user data
+This endpoint retrieves profile data for the currently authenticated user.
 
 #### URL
 
